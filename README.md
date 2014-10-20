@@ -1,5 +1,5 @@
 # Chess
-#### written in Ruby
+#### Written in Ruby
 
 Uses Ruby TK to draw a board on a canvas using UTF-8 for Chess pieces.
 
@@ -9,4 +9,6 @@ Uses Ruby TK to draw a board on a canvas using UTF-8 for Chess pieces.
 - Draws
 - Pawn Promotion
 
-[!alt tag](https://raw.github.com/jjquizon/chess/images/board.png)
+
+
+![alt tag](http://i66.photobucket.com/albums/h280/xjeffqx/tumblr_inline_naas3jQ2Sp1slc98h_zpse0590b87.png)
